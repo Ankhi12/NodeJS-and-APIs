@@ -50,5 +50,6 @@ axios.get(url, {
        Please note the url will have id attached to it.
  
   
-  
+  # Refer the following to know how server handles these requests
+  [Server handling requests](https://github.com/Ankhi12/NodeJS-and-APIs/blob/main/axios%20request%20cheatSheet.md)
    

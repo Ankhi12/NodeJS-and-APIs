@@ -1,4 +1,5 @@
-In the past few days, i was building my project's backend. While completing the backend part, i have come across some important concepts. Let's see it here.
+These past few days, i was working on building database models and related HTTP methods based on relevant project ogic. 
+While doing so, i have come across some important concepts and wanted to share.
 
 I have used:
 

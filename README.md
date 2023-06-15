@@ -7,3 +7,4 @@ If it helps, then great!
 
 1. [Frontend Request](https://github.com/Ankhi12/NodeJS-and-APIs/blob/main/axios%20request%20cheatSheet.md)
 2. [Server handling frontend Request and manipulating database.](https://github.com/Ankhi12/NodeJS-and-APIs/blob/main/Backend%20handling%20frontend%20request%20data.md)
+3. [Mongodb Query](https://github.com/Ankhi12/NodeJS-and-APIs/blob/main/Queryreadme.md)

@@ -24,7 +24,7 @@ findOne() returns null if the condition that we passed doesn't match.
 
 **findOne({id: id}) vs findById(id) vs find({id:id})**
 
-- finOne({id: id}) returns the first occurance of when the condition is satisfied. Otherwise finOne() returns null.
+- finOne({id: id}) returns the first occurance of a record when the condition is satisfied. Otherwise finOne() returns null.
 
 - findById(id) - Is used when you surely know the id, and want to check related data under that id. If somehow the id does not exists in the database, it returns null.
 

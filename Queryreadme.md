@@ -1,5 +1,5 @@
-These past few days, i was working on building database models and related HTTP methods based on relevant project ogic. 
-While doing so, i have come across some important concepts and wanted to share.
+These past few days, i was working on building database models and related HTTP methods based on relevant project logic. 
+While doing so, i have come across some important concepts and wanted to document here. It it helps you, then great!
 
 I have used:
 
